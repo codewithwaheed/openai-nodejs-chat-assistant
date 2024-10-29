@@ -5,7 +5,8 @@ The IT Support Assistant chatbot is a powerful solution for providing automated 
 ### Watch the Full Demo
 
 Check out the [FULL DEMO HERE](https://drive.google.com/file/d/1EwHHppIyQGXiViCOCxRCsgqv-_isWabi/view?usp=sharing) to see the project in action!
-<img src="demo/demo.gif" alt="Demo GIF" style="width:300px; height:auto;">
+
+<img src="demo/demo.gif" alt="Demo GIF" style="width:500px; height:auto;">
 
 ## Key Features
 

@@ -1,0 +1,83 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+coverage/
+.out/
+.next/
+.svelte-kit/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm/
+
+# Misc
+*.lock
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+.nyc_output/
+.vscode-test/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional error reporting
+.error/
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Static analysis cache
+.cache/
+
+# Jest
+jest/
+.jest-test-results.json
+
+# Optional Yarn integrity files
+.yarn-integrity
+.yarn-test-cache/
+
+# Miscellaneous artifacts
+lib-cov/

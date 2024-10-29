@@ -2,6 +2,8 @@
 
 The IT Support Assistant chatbot is a powerful solution for providing automated IT support and assistance. Built with **Node.js** and **Express.js** on the backend and **React** with **Tailwind CSS** on the frontend, this assistant uses **OpenAI’s GPT-3.5 API** to understand and respond to IT-related queries, trigger Slack automations, and assist with other IT-related tasks. It combines AI and real-time messaging capabilities to streamline support requests in organizations.
 
+[![Demo Video](demo/video-thumbnail.png)](https://drive.google.com/file/d/1EwHHppIyQGXiViCOCxRCsgqv-_isWabi/view?usp=sharing)
+
 ## Key Features
 
 - **Automated IT Support**: Uses OpenAI’s Assistant API to intelligently respond to common IT queries.
